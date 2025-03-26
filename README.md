@@ -2,6 +2,6 @@
 - 👀 I’m passionate about **web development**, **mobile app development**, and always exploring **new technologies** to stay ahead in the tech world.  
 - 🌱 I’m currently honing my skills in **React Native** to build more dynamic and engaging mobile applications.  
 - 💞️ I’m always open to collaborating on **open-source projects** or any exciting **app development ideas** that push the boundaries of creativity and functionality.  
-- 📫 How to reach me: You can contact me via **email** at [usman39e@gmail.com](mailto:usman39e@gmail.com) or connect with me on **LinkedIn** for potential collaborations, tech discussions, or networking opportunities.  
+- 📫 How to reach me: You can contact me via **email** at [usman.shafiq.dev@gmail.com](mailto:usman.shafiq.dev@gmail.com) or connect with me on **LinkedIn** for potential collaborations, tech discussions, or networking opportunities.  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**: I'm a huge fan of **solving tech challenges** while sipping on a cup of **chai** – the perfect combination for creative thinking! 😄  
