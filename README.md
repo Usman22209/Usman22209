@@ -6,7 +6,7 @@
 - 🌱 Currently learning **React Native** for building cross-platform apps  
 - 💬 Ask me about **React Native**, **Firebase**, **Node.js**, **MongoDB**, **JavaScript**  
 - 📫 Reach me at [usman.shafiq.dev@gmail.com](mailto:usman.shafiq.dev@gmail.com)  
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/) *(insert your link)*  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/en/usman22209) *(insert your link)*  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I solve tech problems better with a hot cup of **chai** ☕
 
