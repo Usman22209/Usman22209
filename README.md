@@ -13,7 +13,7 @@
   🔹 **Node.js & Express**  
   🔹 **MongoDB**  
 - 📫 Reach me at: [usman.shafiq.dev@gmail.com](mailto:usman.shafiq.dev@gmail.com)  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual LinkedIn link -->
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/Usman22209) <!-- Replace with your actual LinkedIn link -->
 - 😄 Pronouns: He/Him  
 - ☕ Fun fact: I write cleaner code after a strong cup of **chai**
 
