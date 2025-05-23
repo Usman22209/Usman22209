@@ -22,7 +22,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link-here" target="blank">
+  <a href="https://www.linkedin.com/in/Usman22209" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:usman.shafiq.dev@gmail.com">
