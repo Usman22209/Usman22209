@@ -1,8 +1,9 @@
 <!-- Profile README for Usman -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Usman;React+Developer+from+Pakistan;TypeScript+%7C+Next.js+%7C+React+Native;Learning+Node.js+%7C+MongoDB;Let%E2%80%99s+Build+Cool+Stuff!💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Usman;Frontend+React+Developer;Learning+Backend+Techs;Let%E2%80%99s+Build+Something+Awesome!" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
