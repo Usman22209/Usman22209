@@ -1,9 +1,8 @@
 <!-- Profile README for Usman -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Usman;Frontend+React+Developer;Learning+Backend+Techs;Let%E2%80%99s+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Usman;Web+%26+Mobile+App+Developer;React+%7C+React+Native+%7C+Next.js;Crafting+Clean+Code+and+Beautiful+UIs!" alt="Typing SVG" />
 </h1>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -13,11 +12,11 @@
 
 ## 🧠 About Me
 
-- 🇵🇰 From Pakistan — Living the dev life 🌙
-- 🔭 Currently focused on **React**, **React Native**, **Next.js**, and **TypeScript**
-- 🧠 Learning backend with **Node.js**, **Express**, **MongoDB**, and **Firebase**
-- 🛠️ Passionate about clean code, mobile-friendly UIs, and full-stack development
-- ☕ Fun fact: My code gets better after a strong cup of **chai**
+- 🇵🇰 Based in Pakistan — writing code and sipping chai  
+- 🧩 Building responsive web & mobile apps using **React**, **React Native**, and **Next.js**  
+- 🛠️ Love working with **TypeScript**, **Firebase**, **Node.js**, **Express**, and **MongoDB**  
+- 🎨 Passionate about UI/UX, performance, and pixel-perfect layouts  
+- 🔍 Always learning, always building — one commit at a time
 
 ---
 
@@ -27,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" />
@@ -37,12 +37,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Usman22209&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://streak-stats.demolab.com/?user=Usman22209&theme=tokyonight" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman22209&layout=compact&theme=tokyonight" width="50%" />
 </p>
