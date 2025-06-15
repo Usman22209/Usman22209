@@ -1,65 +1,56 @@
-<div align="center">
-  
-# ✨ Usman Mehar ✨  
-### Full Stack & Mobile App Developer
-  
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Web+Development;React+%7C+Next.js;React+Native+Learner;Firebase+%7C+Node.js;MongoDB+Enthusiast)
+# Hi 👋, I'm Usman
 
-</div>
+### A Passionate Developer from Pakistan 🇵🇰
 
----
-
-# 💫 About Me  
-🧑‍💻 Passionate about **web** and **mobile app** development  <br>
-🎓 BS IT Student from Pakistan  <br>
-🚀 Building beautiful UIs with **React**, **Next.js**, and **TypeScript**  <br>
-📱 Exploring cross-platform apps with **React Native**  <br>
-🔧 Working on backend APIs with **Node.js**, **Express**, and **Firebase**  <br>
-💬 Ask me about React, React Native, Next.js, TypeScript, Firebase, Node.js, and MongoDB  <br>
-☕ Fun fact: I write cleaner code after a strong cup of **chai**
-
----
-
-# 💻 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/React%20Native-%2300D1F7.svg?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- 👨‍💻 I’m deeply interested in **web development**, **mobile app development**, and love exploring **new technologies**  
+- 🌐 Frontend focused with **React**, **Next.js**, and **TypeScript**  
+- 📱 Currently learning **React Native** to build awesome cross-platform apps  
+- 💬 Ask me about:  
+  🔹 **React Native**  
+  🔹 **Next.js**  
+  🔹 **TypeScript & JavaScript (ES6+)**  
+  🔹 **Firebase** (Email & Phone Auth)  
+  🔹 **Node.js & Express**  
+  🔹 **MongoDB**  
+- 📫 Reach me at: [usman.shafiq.dev@gmail.com](mailto:usman.shafiq.dev@gmail.com)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/Usman22209) <!-- Replace with your actual LinkedIn link -->
+- 😄 Pronouns: He/Him  
+- ☕ Fun fact: I write cleaner code after a strong cup of **chai**
 
 ---
 
-<div align="center">
+## 🌐 Connect with me
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Usman22209&show_icons=true&theme=dark) &nbsp;&nbsp;&nbsp;  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Usman22209&layout=compact&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Usman22209)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:usman.shafiq.dev@gmail.com)
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/Usman22209" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="mailto:usman.shafiq.dev@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
-![snake gif](https://github.com/Usman22209/Usman22209/blob/output/github-snake-dark.svg)
-  
-</div>
+## 🛠️ Languages and Tools I Use
 
-<div align="center" style="margin-top: 2rem;">
-  <img src="https://komarev.com/ghpvc/?username=Usman22209&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React / React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usman22209&show_icons=true&theme=dark" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Usman22209&theme=dark" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman22209&layout=compact&theme=dark" alt="Top languages"/>
+</p>
