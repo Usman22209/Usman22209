@@ -23,7 +23,7 @@
 ## 🚀 Tech Stack
 <h2>🚀 Tech Stack</h2>
 
-<p align="center">
+  <div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
   
@@ -31,15 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React / React Native" />
-  
-  <!-- Next.js (light icon custom PNG) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+
+  <!-- Next.js (white logo SVG) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" title="Next.js" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   
-  <!-- Express.js (white PNG hosted on Wikimedia) -->
+  <!-- Express.js (white PNG) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" title="Express.js" />
 
   <!-- MongoDB -->
@@ -50,7 +50,8 @@
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-</p>
+</div>
+
 
 ---
 
