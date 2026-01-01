@@ -8,11 +8,12 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.32
         with:
           token: ${{ secrets.GH_TOKEN }}
           user: usman22209
