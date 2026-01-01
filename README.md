@@ -1,5 +1,7 @@
+<!-- README.md | Usman Shafiq -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Usman+Shafiq;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Next.js;Building+Scalable+Apps+with+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Usman+Shafiq;Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Next.js;Building+Clean+and+Scalable+Applications" />
 </h1>
 
 <p align="center">
@@ -11,11 +13,10 @@
 ## 👨‍💻 About Me
 
 - 🇵🇰 Full-Stack Developer from Pakistan  
-- ⚙️ Working with **React, React Native, Next.js & TypeScript**  
-- 🧠 Experience with **NestJS**, backend APIs & basic AI integrations  
-- 🔁 Automating workflows using **n8n**  
-- 🔥 Passionate about performance, clean code & scalable apps  
-- 📈 Consistent open-source contributor
+- ⚙️ Building apps with **React, React Native, Next.js & TypeScript**  
+- 🧠 Experience with **NestJS** and basic AI integrations  
+- 🔁 Workflow automation using **n8n**  
+- 🔥 Focused on performance, clean architecture & maintainable code  
 
 ---
 
@@ -25,34 +26,17 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mongodb,firebase,git,docker" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation-n8n-FF6D00?style=for-the-badge" />
-</p>
-
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=usman22209&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats-git-master-usman22209s-projects.vercel.app/api?username=usman22209&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usman22209&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usman22209&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usman22209&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usman22209&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usman22209&theme=radical" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usman22209&theme=radical&utcOffset=5" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usman22209&theme=react-dark" />
+  <img src="https://github-readme-stats-git-master-usman22209s-projects.vercel.app/api/top-langs/?username=usman22209&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -63,7 +47,7 @@
   <a href="mailto:usman.shafiq.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-usman.shafiq.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/usman22209" target="_blank">
+  <a href="https://www.linkedin.com/in/usman22209">
     <img src="https://img.shields.io/badge/LinkedIn-Usman%20Shafiq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
