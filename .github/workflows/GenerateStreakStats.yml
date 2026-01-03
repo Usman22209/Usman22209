@@ -1,0 +1,39 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: usman22209
+          theme: transparent
+          hide_border: true
+          ring: 00D9FF
+          fire: 00D9FF
+          currStreakLabel: 00D9FF
+          stroke: 00D9FF
+          sideNums: 00D9FF
+          currStreakNum: 00D9FF
+          sideLabels: 00D9FF
+          dates: 888888
+          output: assets/streak-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Commit streak stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update streak stats"
+          file_pattern: 'assets/streak-stats.svg'
