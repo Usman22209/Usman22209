@@ -1,38 +1,49 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   
-  workflow_dispatch:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
 
 jobs:
-  metrics:
+  update-stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Generate metrics
-        uses: lowlighter/metrics@v3.32
+      # Generate contribution snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: usman22209
-          filename: assets/github-metrics.svg
+          github_user_name: usman22209
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-          base: header, activity, repositories
-
-          plugin_languages: yes
-          plugin_languages_indepth: no
-
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_activity_limit: 5
-
-      - name: Commit changes
+      # Generate GitHub profile summary cards
+      - name: Generate Profile Summary
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: usman22209
+          
+      # Commit all generated files
+      - name: Commit files
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add assets/github-metrics.svg
-          git commit -m "Update metrics" || exit 0
-          git push
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Updated GitHub stats [skip ci]"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: main
