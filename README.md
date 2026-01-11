@@ -73,21 +73,21 @@ const usman = {
 
 <div align="center">
 
-![](./profile-summary-card-output/2077/0-profile-details.svg)
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
 </div>
 
 <div align="center">
 
-<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
-<img src="./profile-summary-card-output/2077/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
 
 </div>
 
 <div align="center">
 
-<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" alt="GitHub Stats"/>
-<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="49%" alt="Productive Time"/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 </div>
 
