@@ -197,19 +197,9 @@ I build custom **n8n workflows** that automate complex business processes:
 
 ---
 
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&border=true)
-
-</div>
-
----
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
