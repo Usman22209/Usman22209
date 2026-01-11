@@ -97,7 +97,8 @@ const usman = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-taupe-five.vercel.app/?user=Usman22209)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-taupe-five.vercel.app/?user=Usman22209&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
 ---
