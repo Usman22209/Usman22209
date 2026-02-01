@@ -5,9 +5,6 @@
 ### Full-Stack Developer | React & React Native Specialist | AI & Automation Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Next.js;AI+Integration+%7C+Workflow+Automation;Building+Smart+%26+Scalable+Solutions)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
 </div>
 
 ---
