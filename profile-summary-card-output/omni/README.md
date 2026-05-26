@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Usman22209/Usman22209/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
